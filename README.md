@@ -32,5 +32,41 @@
     </table>
 </div>
 
+## 💻 Tech Stack
+### 👨‍💻 Languages
+![Assembly](./static/assembly.svg)
+![Bash](./static/bash.svg)
+![C](./static/c.svg)
+![C++](./static/c++.svg)
+![CSS](./static/css.svg)
+![HTML5](./static/html5.svg)
+![JavaScript](./static/javascript.svg)
+![LaTeX](./static/latex.svg)
+![Markdown](./static/markdown.svg)
+![Python](./static/python.svg)
+
+### 🧩 Frameworks
+![Django](./static/django.svg)
+![Flask](./static/flask.svg)
+
+### 🗄️ Databases
+![MicrosoftSQLServer](./static/sqlserver.svg)
+
+### 🤖 Machine Learning
+![Matplotlib](./static/matplotlib.svg)
+![NumPy](./static/numpy.svg)
+![Pandas](./static/pandas.svg)
+![Plotly](./static/plotly.svg)
+![scikit-learn](./static/scikit-learn.svg)
+
+### 🔀 VCS
+![Git](./static/git.svg)
+![GitHub](./static/github.svg)
+![GitLab](./static/gitlab.svg)
+
+### 💻 MCUs and SBCs
+![Arduino](./static/arduino.svg)
+![Raspberry Pi](./static/raspberrypi.svg)
+
 ## 📞 Contact Me
 - ✉️ Email address: <a href="mailto:giacomotessari0@gmail.com">giacomotessari0@gmail.com</a>
