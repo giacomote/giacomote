@@ -35,6 +35,7 @@
 ## 💻 Tech Stack
 ### 👨‍💻 Languages
 ![Assembly](./static/assembly.svg)
+![AutoHotkey](./static/autohotkey.svg)
 ![Bash](./static/bash.svg)
 ![C](./static/c.svg)
 ![C++](./static/c++.svg)
@@ -55,9 +56,11 @@
 ### 🤖 Machine Learning
 ![Matplotlib](./static/matplotlib.svg)
 ![NumPy](./static/numpy.svg)
+![OpenCV](./static/opencv.svg)
 ![Pandas](./static/pandas.svg)
 ![Plotly](./static/plotly.svg)
-![scikit-learn](./static/scikit-learn.svg)
+![PyTorch](./static/pytorch.svg)
+![Scikit-learn](./static/scikit-learn.svg)
 
 ### 🔀 VCS
 ![Git](./static/git.svg)
@@ -67,6 +70,13 @@
 ### 💻 MCUs and SBCs
 ![Arduino](./static/arduino.svg)
 ![Raspberry Pi](./static/raspberrypi.svg)
+
+### 🖥 Operating Systems
+![Debian](./static/debian.svg)
+![Fedora](./static/fedora.svg)
+![GNOME](./static/gnome.svg)
+![GNOME Terminal](./static/gnometerminal.svg)
+![Windows](./static/windows.svg)
 
 ## 📞 Contact Me
 - ✉️ Email address: <a href="mailto:giacomotessari0@gmail.com">giacomotessari0@gmail.com</a>
