@@ -52,6 +52,7 @@
 
 ### 🗄️ Databases
 ![MicrosoftSQLServer](./static/sqlserver.svg)
+![Neo4j](./static/neo4j.svg)
 
 ### 🤖 Machine Learning
 ![Matplotlib](./static/matplotlib.svg)
